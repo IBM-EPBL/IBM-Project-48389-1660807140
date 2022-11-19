@@ -18,7 +18,7 @@
 | Team Mentor | - | &emsp; MS. Vinothini S |
 | Team Evaluator | - | &emsp;  MS. Swetha S|
 | Team Leader | 713619104018 | &emsp; LAVANYA A &emsp; &emsp; |
-| Team Members &emsp; | 713619104025 <br/> 713619104026 <br/> 713619104029 <br/> | &emsp; NANDHA GOKUL S <br/> &emsp; PAVITHRA S <br/> &emsp; RAMKUMAR M <br/> &emsp;  |
+| Team Members &emsp; | 713619104025 <br/> 713619104026 <br/> 713619104029 <br/> | NANDHA GOKUL S <br/> &emsp; PAVITHRA S <br/> &emsp; RAMKUMAR M <br/> &emsp;  |
 
 <h3>Skills Required</h3>
 
@@ -38,7 +38,7 @@
 
 <h3> Technical Architecture </h3>
 
-https://github.com/IBM-EPBL/IBM-Project-48389-1660807140/main/PROJECT%20DESIGN%20%26%20PLANNING%20PHASE/PROJECT%20DESIGN%20PHASE%20I/Solution%20Architecture.pdf
+https://github.com/IBM-EPBL/IBM-Project-48389-1660807140/blob/main/Project%20Design%20Phase%20II/Technology%20Architecture%20-%20NAA.pdf
 
 
 
