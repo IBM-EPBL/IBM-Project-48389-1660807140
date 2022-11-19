@@ -4,7 +4,7 @@
 
 | Query | Reply |
 | --- | --- |
-| Project Title | &emsp; <b>Nutrition assistant Application</b> &emsp; |
+| Project Title | &emsp; <b>Nutrition Assistant Application</b> &emsp; |
 | Project Domain | &emsp; Cloud Application Development &emsp; |
 | Team ID | &emsp;PNT2022TMID43062&emsp; |
 | Team Size | &emsp; 4 &emsp; |
@@ -18,7 +18,7 @@
 | Team Mentor | - | &emsp; MS. Vinothini S |
 | Team Evaluator | - | &emsp;  MS. Swetha S|
 | Team Leader | 713619104018 | &emsp; LAVANYA A &emsp; &emsp; |
-| Team Members &emsp; | 713619104025 <br/> 713619104026 <br/> 713619104029 <br/> | NANDHA GOKUL S <br/> &emsp; PAVITHRA S <br/> &emsp; RAMKUMAR M <br/> &emsp;  |
+| Team Members &emsp; | 713619104025 <br/> 713619104026 <br/> 713619104029 <br/> |  &emsp; NANDHA GOKUL S <br/> &emsp; PAVITHRA S <br/> &emsp; RAMKUMAR M |
 
 <h3>Skills Required</h3>
 
